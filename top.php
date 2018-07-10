@@ -6,7 +6,7 @@
 	<meta name="keywords" content="golden retriever, labrador, retriever, szczenię, szczenięta, szczeniaki">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 	<link rel="stylesheet" href="style/style.css">
-	<link rel="shortcut icon" href="favicon.ico">    
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">    
 	<link href='http://fonts.googleapis.com/css?family=Josefin+Sans&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 	<link href="https://fonts.googleapis.com/css?family=Ubuntu+Condensed&amp;subset=latin-ext" rel="stylesheet">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>

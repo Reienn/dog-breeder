@@ -3,7 +3,7 @@
 	<?php include 'top.php';?>
 	
 		<h1 class="news"><a  href="szczenieta.php">Consectetur adipiscing elit!</a></h1>
-		<img class="linia" src="assets/line1.gif"/>
+		
 		<p class="quote">
 			Quisque sit amet neque in nulla<br>
 			congue accumsan quis ac turpis.<br>
@@ -25,6 +25,7 @@
 			Aliquam tempor hendrerit imperdiet. Morbi ac mi in felis rutrum fringilla ac fringilla elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque nec rhoncus mauris. Donec laoreet massa vitae leo accumsan, et tristique arcu egestas. Ut eget dignissim libero, vel euismod tellus. Praesent rutrum metus nunc, a blandit tellus bibendum eu. Aliquam faucibus velit leo, eu accumsan nulla porttitor vel. Nam in justo leo. Integer maximus vulputate ex quis molestie. Praesent nec mauris metus. Sed sodales eu sem ut laoreet. Ut porta ante dui, ac ornare diam pretium quis. Aenean imperdiet id quam ac viverra. Quisque dapibus libero id metus dapibus tempus.
 		</p>
 		<b>Golden Retreiever - <a href="wzorzec-rasy-golden-retriever.php">wzorzec rasy</a></b><br>
+		<br><br><img class="linia" src="assets/line1.gif"/>
 		<h1>LABRADOR RETRIEVER</h1>
 		<p class="art">
 			Aenean efficitur velit vel vehicula tincidunt. Nam tempus, mi sed consequat facilisis, mauris leo rutrum nisi, in cursus risus sapien in erat. Cras finibus quam at risus tincidunt bibendum. Ut aliquet molestie varius. Suspendisse pulvinar tellus nec est eleifend, id laoreet erat accumsan. Sed ac ipsum mi. Fusce orci ligula, luctus et mollis non, imperdiet vitae libero. Vestibulum fermentum nunc velit, sed luctus ex semper cursus. Integer eget rutrum eros. Pellentesque arcu nisl, ullamcorper ut neque a, rutrum dignissim metus. Vestibulum sed felis lorem. Mauris ornare rhoncus dapibus. In porttitor quis mi et tincidunt. Sed vitae ultrices dui, vitae venenatis diam.

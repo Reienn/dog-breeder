@@ -5,7 +5,7 @@
 		<div class="aboutDog">
 			<h1>LOREM IPSUM</h1>
 			<b>Nullam accumsan tristique porta</b><br><br>
-			<a href="galeria.php?gallery=Jazon-Moj-Zakatek"><img class="portrait" src="assets/gallery/Lorem-Ipsum/dog_1.jpg"/></a><br><br>
+			<a href="galeria.php?gallery=Lorem-Ipsum"><img class="portrait" src="assets/gallery/Lorem-Ipsum/dog_1.jpg"/></a><br><br>
 			ur. 01.01.2000<br>
 			PKR.VIII-12345<br>
 			Ojciec: Lorem Ipsum<br>
